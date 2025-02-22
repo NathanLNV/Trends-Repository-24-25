@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<style>
+
+body 
+{
+  background-image: url("background.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+</style>
+
+
+
+<html>
+	<title> Nieva_Resume </title>
+</html>
+
+<body>
+<center>
+	<img src="profile.jpg" alt="ProfilePic" width="200" height="200">
+	<h1> Nathaniel L. Nieva </h1>
+	<p><i> Naga City, Camarines Sur, Philippines </i></p>
+	<p><i> 09686434525 </i></p>
+	<p>As someone who is very interested in computers and programming, <br>I am a person who is very willing to hone my craft every chance I get</p>
+	
+</center>
+
+<hr>
+
+<center>
+	<h1>Skills</h1>
+		<table>	
+  			<tr>
+    				<th>General Skills</th>
+    				<th>Technical Skills</th>
+  			</tr>
+
+  			<tr>
+    				<td>Programming, Drawing, Problem Solving &nbsp&nbsp&nbsp&nbsp&nbsp</td>
+    				<td>Game development, 2D sprite illustration <br> Programming languages: <br> GDScript, C++, Python, Java</td>
+ 	 		</tr>
+		</table>
+</center>
+	
+<hr>
+
+<center>
+	<h1>Educational Background</h1>
+		<table>	
+  			<tr>
+    				<th>Junior High</th>
+    				<th>Senior High</th>
+    				<th>College</th>
+  			</tr>
+
+  			<tr>
+    				<td>San Rafael National High School &nbsp&nbsp&nbsp&nbsp&nbsp</td>
+    				<td>University of Nueva Caceres &nbsp&nbsp&nbsp&nbsp&nbsp</td>
+    				<td>Ateneo de Naga University`</td>
+ 	 		</tr>
+		</table>
+</center>
+<hr>
+
+<h2> Work Experience </h2>
+
+<ol>
+  <li>Real Work</li>
+<ul>
+  	<li>Pandalivery work immersion 2022-2023</li>
+</ul>
+
+  <li>Online Work</li>
+<ul>
+	<li>Practice Jam #5 on Itch.io (Game Development Contest)</li>
+  	<li>Jame Gam #45 on Itch.io (placed rank 13/22)(Game Development Contest)</li>
+</ul>
+</ol>
+
+<hr>
+
+<h2>
+	Character Reference
+</h2>
+<b>
+<h3>
+Ma. Theresa M. Aguilar <br>
+College Faculty • Computer Science Department <br>
+mtaguilar@gbox.adnu.edu.ph <br>
+College Professor
+</h3>
+</b>
+
+	
+</body>
+
